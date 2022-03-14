@@ -1,5 +1,5 @@
 # Web GIS: An Introduction to Digital Mapping
-Spring 2021: DH 151
+Spring 2022: DH 151
 
 Instructor: Yoh Kawano (yohman@gmail.com)
 
