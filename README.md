@@ -16,7 +16,7 @@ Or email me to schedule a different day/time
 
 # Pre-class Survey
 
-- Make sure to take [this survey](https://forms.gle/19nZjswKUwJTdZiZA) before class begins
+- Make sure to take [this survey](https://forms.gle/tdA9ZEjU14PVAoUi8) before class begins
 
 # Office hours
 
@@ -411,22 +411,6 @@ Why you should consider taking this course
 [Introduction to Web Mapping](https://geobgu.xyz/web-mapping2/)
 - Michael Dorman
 
-
-## Remote zoom learning expectations
-
-Welcome to the new normal. It is expected that the quarter will be conducted remotely and via zoom in its entirety. The good news is that this course—coding, data, maps!—is situated perfectly for remote learning. Nevertheless, there are some expectations and guidelines I would like to enforce in order to make this experience as fruitful and productive for all of us. First, make sure that your Internet connection and equipment are set up to use Zoom and able to share audio and video during class meetings. Let me know if there is a gap in your technology set-up as soon as possible, and we can see about finding solutions.
-
-### Recording of class sessions
-
-All synchronous classes will be recorded via Zoom so that students in this course (and only students in this course) can watch or re-watch past class sessions. Please note that breakout rooms will not be recorded. I will make the recordings available on CCLE as soon as possible after each class session (usually the day after the class meeting). Recordings will live in our CCLE website. 
-
-Please note that you are not allowed to record the class yourself or share the class recordings. This is to protect your [FERPA rights](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) and those of your fellow students.
-
-### Sharing video
-
-In this course, being able to see one another helps to facilitate a better learning environment and promote more engaging discussions. Therefore, our default will be to expect students to have their cameras on during lectures and discussions. However, I also completely understand there may be reasons students would not want to have their cameras on. If you have any concerns about sharing your video, please email me as soon as possible and we can discuss possible adjustments. 
-
-Note: You may use a [background image](https://humtech.ucla.edu/instructional-support/integrated-tools/zoom-teleconferencing/zoom-backgrounds/) in your video if you wish; just check in advance that this works with your device(s) and internet bandwidth.  Also, having a profile picture on your Zoom account helps humanize your presence in the course at times when you need to shut the camera off.
 
 ### Parents
 
