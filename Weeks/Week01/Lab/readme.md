@@ -10,7 +10,7 @@ Enter the following information:
 
 <kbd><img src="../images/createrepo.png"></kbd>
 
-On GitHub, go to your course repo (should look something like this: <https://github.com/yohman/21S-DH151>).
+On GitHub, go to your course repo (should look something like this: <https://github.com/yohman/22S-DH151>).
 
 Copy your repo URL
 
