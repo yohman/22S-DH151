@@ -20,9 +20,13 @@ Copy your repo URL
 
 Open VS Code
 
-In your Welcome window, (1) click on `clone repository`, and (2) enter your repo url in the text box.
+In your Welcome window, click on the explorer icon.
 
-<kdb><img src="../images/vsclone.png"></kbd>
+<kdb><img src="../images/explorer.png"></kbd>
+
+Click on (1) Clone Repository and (2) enter your repo url in the text box.
+
+<kdb><img src="../images/vsclone2.png"></kbd>
 
 If you are prompted to open the repository, do so.
 
