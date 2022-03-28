@@ -8,7 +8,6 @@ Check back here a day after class to find the latest zoom recordings.
 - [Week 4: Alesha Unpingco on UX Design, CSV lab]()
 - [Week 5: CSV Map highlights, Storyboard reveal, Covid map lab]()
 - [Week 6: Midterm Presentations]()
-   - [Musical Maps Presentation]()
 - [Week 7: Thick Mapping, Choropleth lab]()
 - [Week 8: Albert on Mapping Ethics]()
 - [Week 9: Silvia on Equity and Justice, Charts and Tables lab]()
