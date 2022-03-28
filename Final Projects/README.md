@@ -1,4 +1,4 @@
-# Final Projects
+# 2021 Final Project Archive
 
 Music, art, Asian American history, pollution, climate change, mental health, education policy... What do they all have in common? Well, a web map of course! What better way to visually communicate research than through the use of an interactive map that displays data through spatial narratives. Students with little to no prior web development experience learned how to build full-fledged mapping applications from scratch, without using  off-the-shelf products, applying UX design principles, coding in HTML, Javascript, and CSS, and using open source solutions to build narrative based maps that informed on their research interests. Along with the technology skills learned through hands-on labs, the course provided a four part "speaker-series," highlighting practitioners who spoke on topics of UX design, thick mapping, design justice and ethics, and equity and justice. The speakers provided a theoretical framework for which digital technology is utilized in an ethical and responsible manner, all aspects that are reflected in the projects highlighted below. Enjoy! 
 
