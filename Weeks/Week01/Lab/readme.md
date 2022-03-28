@@ -142,7 +142,7 @@ Save the file, and refresh your browser page that has `index.html`
 
 ## Map time!
 
-Now it is time to add a map to our html page. This is a multi-step process that entails the following:
+Now it is time to add a map to your html page. This is a multi-step process that entails the following:
 
 1. Bring the leaflet javascript library into the html page
 1. Bring the leaflet css into the html page
