@@ -10,7 +10,7 @@ Time: Mondays 2:00 – 4:50pm
 Time: Thusdays 1:00 - 3:00pm
 
 Schedule here:
-- https://calendly.com/yohda/officehours
+- https://calendly.com/yohda/dh151
 
 Or email me to schedule a different day/time
 
