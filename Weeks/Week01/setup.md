@@ -55,7 +55,7 @@ When git is installed, check your installation:
 
 Open a terminal window and enter the following with your credentials:
 
-	```PowerShell
+	```
 	git config --global user.name "John Doe"
 	git config --global user.email johndoe@example.com
 	```
