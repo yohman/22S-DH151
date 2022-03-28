@@ -1,5 +1,7 @@
 # Lab 1: Let's make an interactive web map
 
+What we are learning today is a _workflow_. It is important for you to follow (and understand!) these steps, as it sets up the foundation for the rest of the course.
+
 ## Set up your class GitHub repo
 
 First, we need to make sure you have a GitHub account, and a dedicated repo for this course.
