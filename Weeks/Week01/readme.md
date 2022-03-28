@@ -1,5 +1,7 @@
 # Week 1: Introduction to Web Mapping
 
+Zoom: https://ucla.zoom.us/j/91538839328
+
 ## Agenda
 
 - Record this session (remind me if I forget!)
