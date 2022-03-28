@@ -2,6 +2,7 @@
 
 ## Agenda
 
+- Record this session (remind me if I forget!)
 - [Class setup](setup.md)
 - [Introduction lecture](https://yohman.github.io/22S-DH151/Weeks/Week01/W01-Lecture.slides.html#/)
 - [Lab 1: Let's make an interactive map](Lab/)
