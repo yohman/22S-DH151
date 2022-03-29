@@ -15,9 +15,8 @@ Zoom: https://ucla.zoom.us/j/91538839328
 
 ## Thinking cap assignment:
 
-Find a web mapping site that excites you, and respond to the following prompts:
+Find a web mapping site that excites you, and respond to the following prompts as a post in this [discussion section](https://github.com/yohman/22S-DH151/discussions/2):
 
-- In your class repo, create a new file in your Week1 folder titled `W1 Thinking Cap.md`
 - Include a screenshot of the site
 - Include a link to the site
 - What is the site's agenda?
@@ -25,7 +24,6 @@ Find a web mapping site that excites you, and respond to the following prompts:
 - How does the mapping work, and does it “work?” i.e., in your opinion, does it do what it’s supposed to do?
 - What technologies does the map use? I.e. Google maps, leaflet, mapbox, etc?
 - If you could change something, what would it be?
-- When you are done, submit a link to your assignment [here](https://github.com/yohman/22S-DH151/discussions/13)
 
 ## Coding Assignment:
 
@@ -40,5 +38,5 @@ Using VS Code, and in the same `Week1` folder that you completed your lab assign
 - Add a list with two levels, i.e., a list where each list item is also a list.
 - Add an image (or two) or avatar of yourself (use `<img`> tags)
 - Push you new file to your GitHub repo (follow the instructions from the lab)
-- Submit a link to your GitHub Pages enabled file [here](https://github.com/yohman/22S-DH151/discussions/12)
+- Submit a link to your GitHub Pages enabled file [here](https://github.com/yohman/22S-DH151/discussions/3)
 
