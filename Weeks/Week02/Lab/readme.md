@@ -1,6 +1,10 @@
 # Week 2 Lab
 
-To begin, copy the maproom files you created from your Week 1 lab into a Week2 folder.
+To start, you have two options. You can continue where you left off from Week 1, or start fresh.
+
+## Option 1: Continue from Week 1
+
+Copy the maproom files you created from your Week 1 lab into a Week2 folder.
 
 1. Open VSCode and make sure you have your `DH151` repository open
 1. Create a `Week2` folder
@@ -9,8 +13,7 @@ To begin, copy the maproom files you created from your Week 1 lab into a Week2 f
 
 <kbd><img src="../images/week2start.png"></kbd>
 
-## If you lost your week 1 files (skip if the steps above worked)
-If you do not have your Week1 files (you should!), not to worry, you can recreate them.
+## Option 2: Have a fresh start
 
 1. Open VSCode and make sure you have your `DH151` repository open
 1. Create a `Week2` folder
@@ -114,7 +117,7 @@ When loading a web page which is associated with one or more scripts, the JavaSc
 
 ## Developer's tools
 
-Open the developer's tools (ctrl-shift-i) and select the console tab.
+Open the developer's tools (command-option-i) and select the console tab.
 
 Enter the following javascript code (feel free to change the message):
 
@@ -174,8 +177,8 @@ html += '</ul>'
 #### Numbers
 
 ```js
-let x = 10;
-let y = 3;
+let x = 10
+let y = 3
 ```
 Variables can do math too!
 ```js
@@ -292,13 +295,15 @@ Challenge exercise:
 
 ## In-class Exercise (also your individual assignment)
 
-Now it is your turn to put all this newfound javascript knowledge into practice.
+Now it is your turn to put all this newfound javascript knowledge into practice. 
 
-1. In your `index.html` file, and in the javascript section of your code (`<script></script>`), create an array of objects that lists locations that you have travelled to (include at least 5 locations). Make sure to include a title, description, latitude, and longitude for each.
+Create a story map of locations that you have travelled to, or intend to travel to. Alternatively, you may choose to create a story map that is about an entirely different topic, as long as it follows the general guidelines below:
+
+1. In your `index.html` file, and in the javascript section of your code (`<script></script>`), create an array of objects that lists at least five locations. Make sure to include a title, description, latitude, and longitude for each.
 1. Replace the code that generates the single marker with a loop that goes through your array of objects. Then, create a marker for each location. Make sure to include a title and description in the popup.
 1. Add a title of your maproom in the header section.
 1. Add a title and description of your map in the sidebar section.
-1. When you are done, upload your additions to your GitHub Repo ([follow these instructions to commit and push from the week 1 lab](https://github.com/yohman/21S-DH151/tree/main/Weeks/Week01/Lab#push-your-new-files-to-your-github-repo))
-1. Submit the GitHub Pages URL to your maproom in the class discussion section [here](https://github.com/yohman/21S-DH151/discussions/18)
+1. When you are done, upload your additions to your GitHub Repo 
+1. Submit the GitHub Pages URL to your maproom in the class discussion section [here](https://github.com/yohman/22S-DH151/discussions/5)
 
 **Bonus**: Add an image for each city in your narrative.
