@@ -40,10 +40,7 @@ Today's agenda:
 
 ## Individual Assignment
 
-Complete the in-class lab, making sure it has the following elements:
-
-- A fully functional interactive map
-- "Data" driven narrative, using a javascript object with key:value pairs that generate the markers and narratives on the map
+Complete the in-class lab and submit your story map [here](https://github.com/yohman/22S-DH151/discussions/5).
 
 ## Reading assignment:
 
