@@ -1,5 +1,9 @@
 # Week 2
 
+
+Zoom: https://ucla.zoom.us/j/91538839328
+
+
 Today's agenda:
 
 - This session will be recorded (remind me if I forget!)
