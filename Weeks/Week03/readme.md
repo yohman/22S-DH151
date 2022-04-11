@@ -25,17 +25,13 @@ who | link
 
 Name | Members | Proposal
 --- | --- | ---
-Datart | Annmarie Cong, Eustina Kim, Michelle Lee | [proposal](https://github.com/kimjee8955/DH151-Datart/blob/main/GroupAssignment1.md)
-The Musical Maps | Kai Watanabe, Justis Guardia, Daniel Liu | [proposal](https://github.com/justisg/TheMusicalMaps#readme)
-Happy Tweet | MJ Howland, Ivan Ma, Josephine Meyer-Hogan | [proposal](https://github.com/ivanma9/HappyTweet/blob/main/Group%20Assignments/GroupAssignment1.md)
-Fantastic Four | Labiba Alam, Haiqi Zhou, Adriana Romero, and Lynn Tieu | [proposal](https://github.com/LynnT2/FantasticFour/blob/main/GroupAssignment1.md)
-Rethink Recycling | Alice Lu, Emily Chau, and Hozumi Oshida | [proposal](https://github.com/hoz-map/Rethink-Recycling#readme)
-Ocean Pollution Posse | Julia Wood, Eli Aranita, Derek Wang | [proposal](https://github.com/eliaranita1/project1/blob/main/ProjectProposal.md)
-Team Data | Ainsleigh Douglas, Sebastien Dills, Ryan Orlando | [proposal](https://github.com/ryanorlando/DH151-Project/blob/main/Assignment1.md)
-Environmental Racism in Carceral California | Hannah Lien, Julia Tanenbaum, Lisa Kahn | [proposal](https://github.com/jmtanenbaum/DHEnviroIncarceration/blob/main/README.md)
-The Health Mappers | Frida Barragan & Kate McInerny | [proposal](https://github.com/frida-barragan/DH151_Group/blob/main/Proposal.md)
-cARTographers | Kai Colorado & Alex Haddad | [proposal](https://github.com/kaicolorado/DH151-Group/blob/main/Proposal.md)
-State-of-the-Arts | Natasha Grace, Zona Liao and Alekhya Vittalam | [proposal](https://github.com/alekhyavittalam/state-of-the-arts/blob/main/Assignment1.md)
+Stadium Spectacle | Alex Bezirjyan, Cameron Jewett, Yvonne Nguyen, Camille Wong | [proposal](https://yvonne-nguyen.github.io/stadiums/assignment-1)
+Crime Investigation Agency (CIA) | Keona Mae Pablo, Evelyn Hu, Audrey Tey, Laura Lu | [proposal](https://evelyn-s-hu.github.io/DH151-CIA/)
+The Avengers of NYC | Christina Cha, Cynthia Gong, Daniel Fouladian, Kristina Thabet | [proposal](https://cynthiagong.github.io/nyccrime/proposal)
+Economic Inequality | Annika Sial, Jack Witherspoon, Edryna Ahmed, and Radha Patel | [proposal](https://radha0207.github.io/Economic-Inequality-working-title-/Group%20Assignment/index.html)
+BTS (BTS Tracker Squad) | Alyssa Simmons, Hannah Kim, Mariana Orozco-Berber, and Yahaira Cortez | [proposal](https://github.com/lsssmmns/BTSTrackerSquad/blob/main/README.md)
+Group Name TBD | Tianna Chan, Irvin Ramirez, Leonela Aguilar | [proposal](https://tiannachan.github.io/DH151-SocialMedia/README.md)
+Group Name TBD | Oliver Melgrove | 
 
 ### Group collaborative coding extension
 
@@ -69,8 +65,14 @@ Complete the in-class lab, and submit your finalized Story Map. Your Story Map s
 
 ## Group progress:
 
-- Meet with your group
-- Submit a blog style entry on any progress gained. For example, you may document any insightful sites you found; describe in more detail datasets you plan to use, and how; begin to articulate how the site will look like; report responsitilities and progress made by each group member; describe your hopes on how the site will help a particular cause; etc. Include as many images, photos, sketches to visually enhance your post.
+Meet with your group and submit a blog style entry on progress made this week. For example:
+
+- document any insightful sites you found and describe why it inspires you; 
+- describe in more detail the datasets you plan to use, and how; 
+- begin to articulate what the site will look like; 
+- report responsitilities and progress made by each group member;
+- describe your hopes on how the site will help a particular cause; 
+- include images, photos, sketches to visually enhance your post;
 
 Submit your group progress [here](https://github.com/yohman/22S-DH151/discussions/8)
 
