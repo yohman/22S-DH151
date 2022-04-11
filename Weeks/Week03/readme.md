@@ -1,5 +1,8 @@
 # Week 3
 
+
+Zoom: https://ucla.zoom.us/j/91538839328
+
 ## Today's agenda:
 
 - This session will be recorded
