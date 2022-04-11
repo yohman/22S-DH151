@@ -15,11 +15,11 @@
 who | link 
 --- | ---
 <img src="https://avatars.githubusercontent.com/u/102552593?s=64&v=4" width=50> | [Tianna's hidden journey](https://tiannachan.github.io/DH151/Week2/)
-<img src="https://avatars.githubusercontent.com/u/38347766?s=64&v=4" width=50> | [Oliver's hidden maple leaf](https://melgrove.github.io/DH151/Week2/index.html)
 <img src="https://avatars.githubusercontent.com/u/97260713?s=64&v=4" width=50> | [Alyssa's Education](https://lsssmmns.github.io/DH151/Week2/index.html)
 <img src="https://avatars.githubusercontent.com/u/66044667?s=64&v=4" width=50> | [Camille's function](https://camilleivywong.github.io/DH151/Week02/index.html)
 <img src="https://avatars.githubusercontent.com/u/79070365?s=64&v=4" width=50> | [Christina's box](https://ygcha.github.io/DH151/Week2/location.html)
 <img src="https://avatars.githubusercontent.com/u/81529754?s=64&v=4" width=50> | [Laura's slideshow](https://snlaurax.github.io/DH151/Week2/index)
+<img src="https://avatars.githubusercontent.com/u/38347766?s=64&v=4" width=50> | [Oliver's hidden maple leaf](https://melgrove.github.io/DH151/Week2/index.html)
 
 ### Groups
 
