@@ -208,6 +208,9 @@ data.forEach(function(item){
 })
 ```
 
+> :octocat: **Challenge Exercise**: Change the message on the alert box to dynamically tell you what you clicked on. For example, when a user clicks on "Osaka," the alert should say "you clicked Osaka"
+</kbd>
+
 ## Flying around the world
 
 Alerts are fun, but what we **really** want the map to do is to *fly* to each location that is clicked. Leaflet has a snazzy feature that allows you to fly to any latitude/longitude in the world.
@@ -248,6 +251,8 @@ data.forEach(function(item,index){
 })
 ```
 
+> :octocat: **Challenge Exercise**: Apply a different zoom level for each item in the sidebar that is clicked. Hint: You will have to add a parameter for zoom level in the `data` object.
+
 ## Using a `featureGroup` for your markers
 
 Currently, we are mapping each marker, one at a time. Since our markers are part of a collection, it is adviced to put them in a leaflet `featureGroup` [link](https://leafletjs.com/reference-1.7.1.html#featuregroup).
@@ -265,7 +270,7 @@ data.forEach(function(item){
 	myMarkers.addLayer(marker)
 
 	// add data to sidebar with onclick event
-	$('.sidebar').append(`<div class="sidebar-item" onclick="flyByID(${item.id})">${item.title}</div>`)
+	$('.sidebar').append(`<div class="sidebar-item" onclick="flyToIndex(${item.id})">${item.title}</div>`)
 })
 
 // after loop, add the FeatureGroup to map
@@ -340,6 +345,8 @@ map.fitBounds(myMarkers.getBounds());
 	cursor: pointer; /* change cursor to hand on hover */
 }
 ```
+
+> :octocat: **Challenge Exercise**: Change the color of the sidebar item when a user hovers over it!
 
 ### Layout
 
