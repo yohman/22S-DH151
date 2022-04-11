@@ -18,10 +18,7 @@ Once installed, open an .html file, and click on the "go live" button.
 
 ## Starter files
 
-To begin, copy the maproom files you created from your Week 2 lab into a Week3 folder.
-
-1. Copy and paste your `Week2` folder, and rename `Week2 copy` to `Week3`
-1. Alternatively, create a `Week3` folder, and copy and paste the files from [here](starter/).
+To begin, create a `Week3` folder, and copy and paste the files from [here](starter/).
 
 ## Moving javascript to its own
 
