@@ -148,7 +148,7 @@ Then, add the file to your `index.html` file in the header section:
 
 ### Create a csv file
 
-Create a `Week4/data` folder. Download and add the `dunitz.csv` file from [here](https://raw.githubusercontent.com/yohman/21S-DH151/main/Weeks/Week04/Lab/data/dunitz.csv).
+Create a `Week4/data` folder. Download and add the `dunitz.csv` file from [here](https://raw.githubusercontent.com/yohman/22S-DH151/main/Weeks/Week04/Lab/data/dunitz.csv).
 
 ### Create a `readCSV()` function
 
