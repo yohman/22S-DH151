@@ -4,6 +4,8 @@ Zoom: https://ucla.zoom.us/j/91538839328
 
 ## Today's agenda:
 
+- Special announcement: [2022 UCLA/USC Humanitarian Mapathon](https://mapathon.la/)
+   - Extra credit (10 points): attend and digitize more than 100 buildings!
 - This session will be recorded
 - Concerns/questions/comments, all welcome!
 - Let's meet! My office hours are Thursdays from 1-3, or by email appointment ([schedule here](https://calendly.com/yohda/dh151))
