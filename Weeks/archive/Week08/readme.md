@@ -8,12 +8,7 @@
 
 ## Special guest lecture
 
-"Mapping the connection between technology and ethics"
-- Albert Kochaphum
-- Campus GIS Coordinator (Office of Advanced Research Computing)
-- Faculty in the Asian American Studies
-- Currently teaching "Asian Am 191A – Web Development and GIS for Social Change: Critical Data for Transforming Civil Society"
-
+- Alesha Unpingco
 
 ## Choropleth Gallery
 <img src="images/choropleths.png">

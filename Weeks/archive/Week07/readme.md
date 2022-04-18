@@ -6,6 +6,13 @@
 - Concerns/questions/comments, all welcome!
 - Let's meet! My office hours are Thursdays from 1-3, or by email appointment ([schedule here](https://calendly.com/yohda/officehours))
 
+## Guest Lecture
+"Mapping the connection between technology and ethics"
+- Albert Kochaphum
+- Campus GIS Coordinator (Office of Advanced Research Computing)
+- Faculty in the Asian American Studies
+- Currently teaching "Asian Am 191A – Web Development and GIS for Social Change: Critical Data for Transforming Civil Society"
+
 ## Midterm presentations "out of the box" awards
 
 ### Datart's street view

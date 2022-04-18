@@ -1,37 +1,36 @@
 # Week 4
 
+Zoom: https://ucla.zoom.us/j/91538839328
+
 ## Today's agenda:
 
 - This session will be recorded
 - Concerns/questions/comments, all welcome!
-- Let's meet! My office hours are Thursdays from 1-3, or by email appointment ([schedule here](https://calendly.com/yohda/officehours))
+- Let's meet! My office hours are Thursdays from 1-3, or by email appointment ([schedule here](https://calendly.com/yohda/dh151))
 
-### Guest speaker: Alesha Unpingco
+## Your Map Stories
 
-<img src="https://ace.alumni.ucla.edu/wp-content/uploads/2019/02/Alesha-Unpingco-500x500-300x300.png" width=200>
+- [Map links](https://github.com/yohman/22S-DH151/discussions/7)
 
-[Your questions](https://github.com/yohman/21S-DH151/discussions/26)
-
-### Your Map Stories
-
-- [Map links](https://github.com/yohman/21S-DH151/discussions/27)
-
-#### Maproom honorable mentions
+### Maproom honorable mentions
 
 who | link 
 --- | ---
-<img src="https://avatars.githubusercontent.com/u/54642556?s=120&v=4" width=50> | [Eutina's show and hide](https://kimjee8955.github.io/DH151/Week3/index.html)
-<img src="https://avatars.githubusercontent.com/u/62718306?s=120&v=4" width=50> | [Alice lines up](https://alicelu170.github.io/DH151/Week%203/index.html)
-<img src="https://avatars.githubusercontent.com/u/45404012?s=60&v=4" width=50> | [Ann's fonts and shadows](https://anncong.github.io/DH151/Week3/Index.html)
-<img src="https://avatars.githubusercontent.com/u/81833154?s=60&v=4" width=50> | [Lisa's roadtrip](https://lisalou36.github.io/DH151/week%203/)
-<img src="https://avatars.githubusercontent.com/u/47194494?s=60&v=4" width=50> | [Daniel's disappearing act](https://danielliu524.github.io/DH151/Week3/index.html)
-<img src="https://avatars.githubusercontent.com/u/75969942?s=60&v=4" width=50> | [Adriana's siblings](https://adrianaromero819.github.io/DH151/Week3/index.html)
+<img src="https://avatars.githubusercontent.com/u/86279691?s=64&v=4" width=50> | [Audrey's flags](https://audreytey.github.io/DH151/Week3/index.html)
+<img src="https://avatars.githubusercontent.com/u/77227941?s=64&v=4" width=50> | [Keona's globe](https://kmpablo.github.io/DH151/Week3/mapindex.html)
+<img src="https://avatars.githubusercontent.com/u/88252077?s=64&v=4" width=50> | [Yahaira's satellite view](https://yahairaycortez.github.io/DH151/Week3/index.html)
+<img src="https://avatars.githubusercontent.com/u/91553236?s=64&v=4" width=50> | [Mariana's coffee ratings](https://marianao-b.github.io/22S-DH151/Week3/index.html)
+<img src="https://avatars.githubusercontent.com/u/102548069?s=64&v=4" width=50> | [Annika's marker magic](https://siala7.github.io/DH151/Week3/)
 <img src="https://avatars.githubusercontent.com/u/74166310?s=60&v=4" width=50> | [Hozumi's soundtrack](https://hoz-map.github.io/DH151/Week3/index.html)
+<img src="https://avatars.githubusercontent.com/u/97260713?s=64&v=4" width=50> | [Alyssa's hidden function](https://lsssmmns.github.io/DH151/Week3/aboutme.html)
 
-### Week 4 Lab
+## Storyboarding
+
+- [storyboard exercise](storyboard.md)
+
+## Week 4 Lab
 
 - [CSV Data driven maps](Lab)
-- [Storyboarding](https://github.com/yohman/21S-DH151/tree/main/Weeks/Week04/Lab#storyboard-exercise)
 
 # Assignments
 
