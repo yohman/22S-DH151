@@ -233,7 +233,7 @@ function mapCSV(data){
 
 ## Review the workflow
 
-<kbd><img src="codeflow.png"></kbd>
+<kbd><img src="images/codeflow.png"></kbd>
 
 ## Changing markers to circles
 

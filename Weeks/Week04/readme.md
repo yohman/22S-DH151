@@ -51,13 +51,13 @@ If you cannot find a suitable csv file, you can convert your story map data obje
   - a `mapCSV` function
 
 
-- Submit your assignment [here](https://github.com/yohman/21S-DH151/discussions/37)
+- Submit your assignment [here](https://github.com/yohman/22S-DH151/discussions/10)
 
 ## Group assignment:
 
 [Storyboard examples](https://docs.google.com/presentation/d/1famiX2lWNtsAk-o3_S48Ka7bImBAvRq3UXBKllDwMvw/edit?usp=sharing)
 
-- [Group Assignment #2](https://github.com/yohman/21S-DH151/blob/main/Group%20Assignments/GroupAssignment2.md)
+- [Group Assignment #2](https://github.com/yohman/22S-DH151/blob/main/Group%20Assignments/GroupAssignment2.md)
 
 ## Reading assignment:
 
