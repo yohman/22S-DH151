@@ -8,7 +8,7 @@ Zoom: https://ucla.zoom.us/j/91538839328
 - Concerns/questions/comments, all welcome!
 - Let's meet! My office hours are Thursdays from 1-3, or by email appointment ([schedule here](https://calendly.com/yohda/dh151))
 
-## Your Map Stories
+### Your Map Stories
 
 - [Map links](https://github.com/yohman/22S-DH151/discussions/7)
 
@@ -24,13 +24,13 @@ who | link
 <img src="https://avatars.githubusercontent.com/u/74166310?s=60&v=4" width=50> | [Hozumi's soundtrack](https://hoz-map.github.io/DH151/Week3/index.html)
 <img src="https://avatars.githubusercontent.com/u/97260713?s=64&v=4" width=50> | [Alyssa's hidden function](https://lsssmmns.github.io/DH151/Week3/aboutme.html)
 
-## Storyboarding
-
-- [storyboard exercise](storyboard.md)
-
-## Week 4 Lab
+### Week 4 Lab
 
 - [CSV Data driven maps](Lab)
+
+### Storyboarding
+
+- [storyboard exercise](storyboard.md)
 
 # Assignments
 
