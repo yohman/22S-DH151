@@ -34,7 +34,7 @@ The Avengers of NYC | Christina Cha, Cynthia Gong, Daniel Fouladian, Kristina Th
 Economic Inequality | Annika Sial, Jack Witherspoon, Edryna Ahmed, and Radha Patel | [proposal](https://radha0207.github.io/Economic-Inequality-working-title-/Group%20Assignment/index.html)
 BTS (BTS Tracker Squad) | Alyssa Simmons, Hannah Kim, Mariana Orozco-Berber, and Yahaira Cortez | [proposal](https://github.com/lsssmmns/BTSTrackerSquad/blob/main/README.md)
 Group Name TBD | Tianna Chan, Irvin Ramirez, Leonela Aguilar | [proposal](https://tiannachan.github.io/DH151-SocialMedia/README.md)
-Group Name TBD | Oliver Melgrove | 
+Sandwich | Oliver Melgrove | [proposal](https://github.com/melgrove/DH151/blob/main/proposal.md)
 
 ### Group collaborative coding extension
 
