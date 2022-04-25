@@ -34,7 +34,7 @@ Read the instructions [here](../../Midterm%20and%20Finals).
 
 ### Your storyboards
 
-- https://github.com/yohman/21S-DH151/discussions/33
+- https://github.com/yohman/22S-DH151/discussions/12
 
 ### Group time
 
