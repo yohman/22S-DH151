@@ -209,9 +209,11 @@ Save the `map.js` file, and view the console output in your browser window.
 
 Inspect on how the data is structured. What does each row represent? Are there locational attributes? How is the data for each day represented in the data?
 
-#### **Exercise 1:** Begin to construct the function to map the data. Add the function for `mapCSV(csvdata)` as shown below, and fill in the blanks to map the countries.
 
-NOTE: The data from Johns Hopkins may include null or empty values, which in javascript shows up as `undefined`. In order to check whether a variable exists (such as the `item.Lat` field), add an `if` statement prior to creating a marker. The `if` statement is provided below.
+### :octocat: **Challenge Exercise:** 
+Begin to construct the function to map the data. Add the function for `mapCSV(csvdata)` as shown below, and fill in the blanks to map the countries.
+
+*NOTE: The data from Johns Hopkins may include null or empty values, which in javascript shows up as `undefined`. In order to check whether a variable exists (such as the `item.Lat` field), add an `if` statement prior to creating a marker. The `if` statement is provided below.*
 
 ```js
 function mapCSV(){
@@ -277,7 +279,7 @@ Next, assign the last date to the global variable. At the same time, create the 
 
 ```js
 // function to read csv data
-function readCSV(path){
+function readCSV(){
 	Papa.parse(path, {
 		header: true,
 		download: true,
@@ -300,9 +302,9 @@ function readCSV(path){
 
 Consider that the circle size can be differentiated to visualize the number of cases per country. 
 
-However, converting case counts by country to circles on a computer screen is challenging. Consider that at the time of this writing (4/22/2021), the single highest case count by country is in the United States at 31,929,351 cases. Imagine if we decided to create circles by case counts, the United States would have a radius of 32 million pixels! For this reason, we need to scale our the case counts to a pixel range that makes sense.
+However, converting case counts by country to circles on a computer screen is challenging. Consider that at the time of this writing (4/25/2022), the single highest case count by country is in the United States at 80,984,914 cases (it was 31,929,351 a year ago). Imagine if we decided to create circles by case counts, the United States would have a radius of 80 million pixels! For this reason, we need to scale our the case counts to a pixel range that makes sense.
 
-A simple solution would be divide the case counts by a large enough number, that the highest total would equal to roughly 100 pixels, so divide by 32,000.
+A simple solution would be divide the case counts by a large enough number, that the highest total would equal to roughly 100 pixels, so divide by 800,000.
 
 Additionally, the `mapCSV()` function no longer needs to be fed data because `csvdata` is now a global variable that we can access. Instead, have `mapCSV()` require a date in order to generate a map of differential sized circles for *any given date*.
 
@@ -318,7 +320,7 @@ function mapCSV(date){
 		if(item.Lat != undefined){
 			// circle options
 			let circleOptions = {
-				radius: item[date]/320000,　// divide by high number to get usable circle sizes
+				radius: item[date]/800000,　// divide by high number to get usable circle sizes
 				weight: 1,
 				color: 'white',
 				fillColor: 'red',
@@ -343,7 +345,7 @@ However, imagine if the case counts continue to grow (knock on wood that it does
 
 Instead, why not create a function that *ensures* that no matter what the case count, the largest circle radius will *always* be 100 pixels?
 
-In the revised `mapCSV` function below, instead of a straight division of 320,000, the radius option calls a function `getRadiusSize(item[date])`. Update your `mapCSV` function as shown below, and then create the new function `radiusSize(date)` that returns the correct radius size, scaled so that the maximum
+In the revised `mapCSV` function below, instead of a straight division of 800,000, the radius option calls a function `getRadiusSize(item[date])`. Update your `mapCSV` function as shown below, and then create the new function `radiusSize(date)` that returns the correct radius size, scaled so that the maximum
 
 ```js
 function mapCSV(date){
@@ -375,22 +377,62 @@ function mapCSV(date){
 
 }
 ```
+### :octocat: **Challenge Exercise 2:** 
 
 Complete the new function to get radius size:
 
 ```js
 function getRadiusSize(value){
-	// calculate the min/max values in the data, 
-	// and create a range so that the largest circle size is 100
-	
+
+	// create empty array to store data
+	let values = [];
+
+	// add case counts for most recent date to the array
+
+
+	// get the max case count for most recent date
+
+
+	// per pixel if 100 pixel is the max range
+
+
+	// return the pixel size for given value
+
 }
 ```
 
-*Cheatsheet*: Take a peek at the answer [here](https://github.com/yohman/21S-DH151/blob/main/Weeks/Week05/Lab/completed/js/map.js).
+*Cheatsheet*: Take a peek at the answer [here](completed/js/map.js).
 
 ### Sidebar 
 
 The final part of this lab is to populate the sidebar. Create yet another function `createSidebarButtons()` that populates the sidebar with buttons or text links that update the map in meaningful ways.
+
+Add the call to the function in the `readCSV` function. Your function should look like this:
+
+```js
+// function to read csv data
+function readCSV(){
+	Papa.parse(path, {
+		header: true,
+		download: true,
+		complete: function(data) {
+			console.log(data);
+			// put the data in a global variable
+			csvdata = data;
+
+			// get the last date
+			lastdate = csvdata.meta.fields[csvdata.meta.fields.length-1];
+			
+			// map the data
+			mapCSV(lastdate);
+
+			// create sidebar buttons
+			createSidebarButtons();
+
+		}
+	});
+}
+```
 
 Example sidebar function:
 
@@ -403,7 +445,7 @@ function createSidebarButtons(){
 
 	// loop through each date and create a hover-able button
 	dates.forEach(function(item,index){
-		$('.sidebar').append(`<span onmouseover="mapCSV('${item}')" class="sidebar-item" title="${item}">●</span>`)
+		$('.sidebar').append(`<div onmouseover="mapCSV('${item}')" class="sidebar-item" title="${item}">${item}</div>`)
 	})
 }
 ```
@@ -427,9 +469,13 @@ And add the stylesheet class for `sidebar-item` to the `style.css` file:
 
 You can see the final version [here](https://yohman.github.io/21S-DH151/Weeks/Week05/Lab/completed) 
 
+### :octocat: **Challenge Exercise:** 
 
+Add a display of the date that is being hovered over somewhere on the page. You may choose to add it in the header, sidebar, or on top of the map itself. 
 
-
+Hint:
+- create a `<div>` with a class or id that will hold the date display
+- reference the `div` using jquery and add the date to it as users hover over the red circles (you can add this to the `mapCSV` function)
 
 # Other ways of importing data
 

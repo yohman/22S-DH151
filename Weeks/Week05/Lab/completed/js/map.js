@@ -24,7 +24,7 @@ function createMap(lat,lon,zl){
 }
 
 // function to read csv data
-function readCSV(path){
+function readCSV(){
 	Papa.parse(path, {
 		header: true,
 		download: true,
@@ -80,19 +80,23 @@ function mapCSV(date){
 
 function getRadiusSize(value){
 
+    // create empty array to store data
 	let values = [];
 
-	// get the min and max
+	// add case counts for most recent date to the array
 	csvdata.data.forEach(function(item,index){
 		if(item[lastdate] != undefined){
 			values.push(Number(item[lastdate]))
 		}
 	})
-	let min = Math.min(...values);
+    
+    // get the max case count for most recent date
 	let max = Math.max(...values)
 	
 	// per pixel if 100 pixel is the max range
 	perpixel = max/100;
+
+    // return the pixel size for given value
 	return value/perpixel
 }
 

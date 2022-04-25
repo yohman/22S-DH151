@@ -163,7 +163,7 @@ Next, create a function that will read the csv file using PapaParse. You can put
 
 ```js
 // function to read csv data
-function readCSV(path){
+function readCSV(){
 	Papa.parse(path, {
 		header: true,
 		download: true,
