@@ -241,6 +241,34 @@ function mapCSV(){
 
 <img src="images/covidcircles.png">
 
+Answer:
+```js
+function mapCSV(){
+
+	// loop through every row in the csv data
+	csvdata.data.forEach(function(item,index){
+		// check to make sure the Latitude column exists
+		if(item.Lat != undefined){
+
+			// Lat exists, so create a circleMarker for each country
+            let marker = L.circleMarker([item.Lat,item.Long])
+
+			// add the circleMarker to the featuregroup
+            markers.addLayer(marker)
+
+		} // end if
+	})
+
+	// add the featuregroup to the map
+    markers.addTo(map)
+
+
+	// fit the circleMarkers to the map view
+    map.fitBounds(markers.getBounds())
+}
+```
+
+
 ### Inspecting the metadata
 
 Nice map! We now have a visual representation of every country in the covid data on the map. Let's investigate on how we are going to map the cases per country.
