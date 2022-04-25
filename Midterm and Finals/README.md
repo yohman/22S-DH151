@@ -9,7 +9,7 @@ A note of advice: your project is only as good as your data can take you. Heed t
 Another way to think about your midterm is that this is the "prototype" phase of your project.
 
 There are three deliverables for the mid-term project.
-1. An updated proposal that includes elements from the [Group Assignment #1](https://github.com/yohman/21S-DH151/blob/main/Group%20Assignments/GroupAssignment1.md) including your new data plan and all UX components.
+1. An updated proposal that includes elements from the [Group Assignment #1](../Group%20Assignments/GroupAssignment1.md) including your new data plan and all UX components.
 1. A fully functional interactive website with the following sections:
       1. An `About` page with (at minimum) the following sections:
             - Group members: photos, titles, roles, and a short blurb
@@ -18,16 +18,20 @@ There are three deliverables for the mid-term project.
       1. A `maproom` page with (at minimum) the following features:
             - an interactive map
             - data driven: either through a csv file, Google Sheet, or API endpoint
-            - at least two categorically different layers
+            - at least two categorically different layers, either as toggle-able layers, or differentially styled, colored or sized markers
             - at least 10 objects per layer, each with a clear purpose and narrative
-1. An 8 minute lightning "live" presentation of your project to the class. Suggested flow:
-      1. Introduce your group, its members, and your research (no more than 30 seconds)
+1. A 10 minute, lightning "live" presentation of your project to the class. Suggested flow:
+      1. Introduce your group, its members, and your research (no more than one minute)
       2. Let the audience know why this web map is important (what is at stake and why should we care) (1.5 minutes)
       3. Introduce concept art, mindmaps, storyboards, and other UX design elements (2 minutes)
-      4. Demonstrate the site and its functionalities! (3 minutes)
-      5. Provide next steps (1 minute)
+      4. Demonstrate the site and its functionalities! (4 minutes)
+      5. Next steps (1 minute)
 
-Submit your midterm project materials [here](https://github.com/yohman/21S-DH151/discussions/47).
+### Due date and submission
+
+The deadline for submission will be on <b>Monday, May 2, at 2pm</b>. Any submission after 2pm will be marked late.
+
+Submit your midterm project materials [here](https://github.com/yohman/22S-DH151/discussions/13).
 
 ## Final Project (30% of your final grade)
 ### Overview
