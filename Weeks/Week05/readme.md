@@ -1,10 +1,15 @@
 # Week 5
 
+
+Zoom: https://ucla.zoom.us/j/91538839328
+
+
 ## Today's agenda:
 
 - This session will be recorded
 - Concerns/questions/comments, all welcome!
 - Let's meet! My office hours are Thursdays from 1-3, or by email appointment ([schedule here](https://calendly.com/yohda/dh151))
+- Assignment grading update
 - [Mapathon success](https://mapathon.la/)
   - Who attended? Send me a DM on slack or email so that I can give you your 10 extra credit points!
 
@@ -22,7 +27,10 @@
 
 - [Covid map development](Lab)
 
-### Break
+## Break
+### Midterms
+
+Read the instructions [here](../../Midterm%20and%20Finals).
 
 ### Your storyboards
 
@@ -30,6 +38,3 @@
 
 ### Group time
 
-# Midterms
-
-Read the instructions [here](../../Midterm%20and%20Finals).
