@@ -39,13 +39,12 @@ Do not provide feedback to a project that already has more than six comments!
 
 ### Thinking cap
 
-Topic: Thick mapping in the digital humanities
+Topic: Design Justice
 
-[Read pages 6-21](https://github.com/yohman/21S-DH151/raw/main/Readings/HyperCities_2014_FINAL.pdf)
+https://github.com/albertkun/21S-ASIAAM-191A/blob/main/Week_6/Materials/Design_Justice.pdf
 
 Submit a "thinking cap" reaction to the reading. Specifically, discuss the following:
 
-- What are your thoughts on "thick mapping in the digital humanities," and how does it differ from "mapping?"
-- How does the theory of "thick mapping" inform narratives that are influencing your life?
+- What are your thoughts on design justice?
 
 Submit your thinking cap assignment [here](https://github.com/yohman/21S-DH151/discussions/51).
