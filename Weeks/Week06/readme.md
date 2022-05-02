@@ -18,6 +18,7 @@ _____ (TBD) | Tianna Chan, Leonela Aguilar, Irvin Ramirez, Michelle Kung
 CIA | Audrey Tey, Evelyn Hu, Laura Lu, Keona Pablo
 Laborinth | Annika Sial, Jack Witherspoon, Edryna Ahmed
 Stadium Spectacle| Alex Bezirjyan, Cameron Jewett, Yvonne Nguyen, and Camille Wong
+Sandwich | Oliver
 
 Order randomizer:
 
@@ -40,7 +41,7 @@ function shuffle(arra1) {
 	}
 	return arra1;
 }
-var myArray = ["The Avengers of Data","BTSTrackerSquad","_____ (TBD)","CIA","Laborinth","Stadium Spectacle"];
+var myArray = ["The Avengers of Data","BTSTrackerSquad","_____ (TBD)","CIA","Laborinth","Stadium Spectacle","Sandwich"];
 console.log(shuffle(myArray));
 ```
 
