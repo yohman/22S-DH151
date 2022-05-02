@@ -16,6 +16,7 @@ BTSTrackerSquad | Alyssa Simmons, Yahaira Cortez, Hannah Kim, Mariana Orozco-Ber
 _____ (TBD) | Tianna Chan, Leonela Aguilar, Irvin Ramirez, Michelle Kung
 CIA | Audrey Tey, Evelyn Hu, Laura Lu, Keona Pablo
 Laborinth | Annika Sial, Jack Witherspoon, Edryna Ahmed
+Stadium Spectacle| Alex Bezirjyan, Cameron Jewett, Yvonne Nguyen, and Camille Wong
 
 Order randomizer:
 
@@ -38,7 +39,7 @@ function shuffle(arra1) {
 	}
 	return arra1;
 }
-var myArray = ["The Avengers of Data","BTSTrackerSquad","_____ (TBD)","CIA","Laborinth"];
+var myArray = ["The Avengers of Data","BTSTrackerSquad","_____ (TBD)","CIA","Laborinth","Stadium Spectacle"];
 console.log(shuffle(myArray));
 ```
 
