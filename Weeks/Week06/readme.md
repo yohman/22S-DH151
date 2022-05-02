@@ -3,7 +3,6 @@
 ## Today's agenda:
 
 - Concerns/questions/comments, all welcome!
-- Let's meet! My office hours are Thursdays from 1-3, or by email appointment ([schedule here](https://calendly.com/yohda/officehours))
 
 ### Midterm Presentations
 
