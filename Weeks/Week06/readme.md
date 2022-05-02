@@ -17,6 +17,31 @@ _____ (TBD) | Tianna Chan, Leonela Aguilar, Irvin Ramirez, Michelle Kung
 CIA | Audrey Tey, Evelyn Hu, Laura Lu, Keona Pablo
 Laborinth | Annika Sial, Jack Witherspoon, Edryna Ahmed
 
+Order randomizer:
+
+```js
+function shuffle(arra1) {
+	var ctr = arra1.length, temp, index;
+
+	// While there are elements in the array
+	while (ctr > 0) {
+		// Pick a random index
+		index = Math.floor(Math.random() * ctr);
+		
+		// Decrease ctr by 1
+		ctr--;
+		
+		// And swap the last element with it
+		temp = arra1[ctr];
+		arra1[ctr] = arra1[index];
+		arra1[index] = temp;
+	}
+	return arra1;
+}
+var myArray = ["The Avengers of Data","BTSTrackerSquad","_____ (TBD)","CIA","Laborinth"];
+console.log(shuffle(myArray));
+```
+
 ## Assignments
 
 ### Individual assignment: Provide feedback to two midterm projects
