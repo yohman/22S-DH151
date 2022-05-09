@@ -239,16 +239,16 @@ function mapGeoJSON(){
 // style each feature
 function getStyle(feature){
 	return {
-		stroke: true,
-		color: 'white',
-		weight: 1,
+		stroke: true, // adds an outline
+		color: 'white', // outline color
+		weight: 1, // outline width
 		fill: true,
-		fillColor: getColor(feature.properties['pop_est']),
+		fillColor: getColor(feature.properties['pop_est']), // instead of a single color, make it based on the population value!
 		fillOpacity: 0.8
 	}
 }
 
-// return the color for each feature
+// return the color for each feature based on population count
 function getColor(d) {
 
 	return d > 1000000000 ? '#800026' :
