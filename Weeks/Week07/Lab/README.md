@@ -11,6 +11,12 @@ Source
 
 - https://arcg.is/15Xffe
 
+## To Choropleth or Not To Choropleth
+
+<kbd><img src="images/pitfalls.png" width=400></kbd>
+
+[image](images/election.gif)
+
 ## Getting started
 
 ### Starter files
