@@ -576,7 +576,7 @@ function mapGeoJSON(field){
 	...
 
 	// create the infopanel
-	createLegend();
+	createInfoPanel();
 }
 ```
 
