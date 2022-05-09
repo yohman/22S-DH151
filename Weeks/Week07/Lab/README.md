@@ -149,7 +149,9 @@ Turn on Go Live from your Live Server extension (bottom right of VSCode) and mak
 Choropleth maps are based on polygon layers. To create choropleth maps with leaflet, `geojson` is the most popular file type. Note that `topojson` is another format that is favored by many because of its smaller footprint.
 
 - Global source: https://geojson-maps.ash.ms/
-- Local source: https://boundaries.latimes.com/sets/
+- Local source: 
+  - [California](https://data.ca.gov/dataset/ca-geographic-boundaries)
+  - [Los Angeles Neighborhoods](https://usc.data.socrata.com/dataset/Los-Angeles-Neighborhood-Map/r8qd-yxsr)
 - For US Census Data, [Census Reporter](https://censusreporter.org/) allows you to search for any census variable and download as a `geojson` file.
 
 ### Download global geojson data
