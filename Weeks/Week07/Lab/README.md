@@ -393,6 +393,14 @@ brew.getColorCodes();  // returns
 */
 ```
 
+## Challenge exercise
+
+Create your own version of the global population map. Modify the brew options:
+- number of classes
+- colors
+- classification methods
+
+
 ## Adding a legend
 
 <img src="images/choro5.png">
