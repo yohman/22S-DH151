@@ -33,6 +33,8 @@ Next week, [Alesha Unpingco](https://www.linkedin.com/in/aleshaunpingco/) will b
 
 Your individual assignment for this week is to come up with one or two engaging and insightful questions for Alesha. What would you want to ask somebody who was in your shoes some 10 or so years ago and now works as a UX/web designer for Apple?
 
+Submit your questions [here](https://github.com/yohman/22S-DH151/discussions/15)
+
 ### Group Assignment #3
 
 [Link to assignment](../../Group%20Assignments/GroupAssignment3.md)
