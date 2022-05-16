@@ -9,13 +9,11 @@ Zoom: https://ucla.zoom.us/j/91538839328
 - Let's meet! My office hours are Thursdays from 1-3, or by email appointment ([schedule here](https://calendly.com/yohda/dh151))
 
 
-## Special guest lecture
-
-- Alesha Unpingco, VR, AR, design thinking, ecosystems, and social
-- Currently works as a Design Manager for Apple
-- Formerly a Senior User Experience Designer and AR/VR UX Lead at Google
+## Special guest: Alesha Unpingco
 
 ![Alesha](https://media-exp1.licdn.com/dms/image/C5603AQH4W82RR_CNlA/profile-displayphoto-shrink_800_800/0/1517757082526?e=1657756800&v=beta&t=99MJZWUi1mi1r6YnsWsWEJoyiVvhZd-_ZfA3RNCJT5c)
+
+Alesha has over 10 years UX design, prototyping, and programs experience in higher ed, nonprofits, startups, advertising, and tech. At Apple, she currently manages a team of designers, prototypers, and artists. Prior to Apple, she worked at Google on VR/AR design and cross-platform social experiences for video games. In addition to bringing human-centered design experiences to bleeding edge tech, she's passionate about using design thinking to align teams and empower people.
 
 ## Choropleth Gallery
 
