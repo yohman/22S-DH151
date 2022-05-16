@@ -8,6 +8,11 @@ Zoom: https://ucla.zoom.us/j/91538839328
 - Concerns/questions/comments, all welcome!
 - Let's meet! My office hours are Thursdays from 1-3, or by email appointment ([schedule here](https://calendly.com/yohda/dh151))
 
+## Choropleth Gallery
+
+<img src="images/choro.png">
+
+- [Link to assignments](https://github.com/yohman/22S-DH151/discussions/16)
 
 ## Special guest: Alesha Unpingco
 
@@ -15,11 +20,6 @@ Zoom: https://ucla.zoom.us/j/91538839328
 
 Alesha has over 10 years UX design, prototyping, and programs experience in higher ed, nonprofits, startups, advertising, and tech. At Apple, she currently manages a team of designers, prototypers, and artists. Prior to Apple, she worked at Google on VR/AR design and cross-platform social experiences for video games. In addition to bringing human-centered design experiences to bleeding edge tech, she's passionate about using design thinking to align teams and empower people.
 
-## Choropleth Gallery
-
-<img src="images/choro.png">
-
-- [Link to assignments](https://github.com/yohman/22S-DH151/discussions/16)
 
 ## Week 8 Lab
 - [Mapathon: Creating filters | Mapbox Basemaps](Lab)
