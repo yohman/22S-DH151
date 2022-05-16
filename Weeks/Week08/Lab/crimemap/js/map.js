@@ -127,7 +127,7 @@ function mapJSON(race){
 		if(item.lat != '0'){
 			let marker = L.circleMarker([item.lat,item.lon],circleOptions)
 			.on('mouseover',function(){
-				$('.footer').html(`Victim of <span class='highlighted-text'>${item.crm_cd_desc}</span> is a <span class='highlighted-text'>${item.vict_age}</span> year old of race <span class='highlighted-text'>${item.vict_descent}</span> of gender <span class='highlighted-text'>${item.vict_sex}</span>`)
+				$('.footer').html(`<span style="font-size:0.5em">${item.date_occ.substring(0,10)}</span><br>Victim of <span class='highlighted-text'>${item.crm_cd_desc}</span> is a <span class='highlighted-text'>${item.vict_age}</span> year old of race <span class='highlighted-text'>${item.vict_descent}</span> of gender <span class='highlighted-text'>${item.vict_sex}</span>`)
 			})
 			markers.addLayer(marker)
 		}
