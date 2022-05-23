@@ -8,6 +8,11 @@ Zoom: https://ucla.zoom.us/j/91538839328
 - Concerns/questions/comments, all welcome!
 - Let's meet! My office hours are Thursdays from 1-3, or by email appointment ([schedule here](https://calendly.com/yohda/officehours))
 
+## Week 9 Gallery
+
+<img src="images/week9gallery.png">
+https://github.com/yohman/22S-DH151/discussions/18
+
 ## Special guest lecture: Mariah Tso, The Navajo Cartographer
 <img src="https://milliondollarhoods.pre.ss.ucla.edu/wp-content/uploads/sites/96/2019/10/Mtso_photo-845x684.jpg" width=400>
 
