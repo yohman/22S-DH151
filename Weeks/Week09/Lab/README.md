@@ -609,7 +609,7 @@ function createDashboard(properties){
 			type: 'bar',
 			height: 300,
 			animations: {
-				enabled: true,
+				enabled: false,
 			}
 		},
 		title: {
@@ -647,7 +647,7 @@ For a pie chart, replace the options with the following:
 			height: 400,
 			width: 400,			
 			animations: {
-				enabled: true,
+				enabled: false,
 			}
 		},
 		title: {
@@ -676,6 +676,11 @@ What would we have to do to create a pie chart with these variables? Modify the 
 
 <kbd><img src="images/pie2.png"></kbd>
 
+### Challenges
+
+- revert the pie chart back to a bar chart
+- try to chart different groups of variables (e.g., race)
+- try different types of charts
 
 ## Tables
 
@@ -796,6 +801,7 @@ It gets even better. Notice the argument for `rowClick`, which triggers a functi
 
 The decision, of course, is up to you. The function below simply takes a geoid (FIPS code) and zooms the map to its boundary. Make the following function, and add a call to it from the `rowClick` event.
 
+
 ```js
 function zoomTo(geoid){
 
@@ -805,3 +811,6 @@ function zoomTo(geoid){
 
 }
 ```
+*Hint* 
+
+The trick is to make sure that the `rowClick` event triggers the `zoomTo` function, and *feeds* it the correct argument for the `geoid` of the clicked polygon.
