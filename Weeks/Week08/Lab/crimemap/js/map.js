@@ -44,7 +44,37 @@ $( document ).ready(function() {
     createMap(lat,lon,zl);
 	getJSON();
 	createSidebar();
+	createTimeSlider();
 });
+
+function createTimeSlider(){
+    var lang = "en-US";
+    var year = 2018;
+    
+    function dateToTS (date) {
+        return date.valueOf();
+    }
+    
+    function tsToDate (ts) {
+        var d = new Date(ts);
+    
+        return d.toLocaleDateString(lang, {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+        });
+    }
+    
+    $("#timeslider").ionRangeSlider({
+        skin: "big",
+        type: "double",
+        grid: true,
+        min: dateToTS(new Date(year, 10, 1)),
+        max: dateToTS(new Date(year, 11, 1)),
+        from: dateToTS(new Date(year, 10, 8)),
+        to: dateToTS(new Date(year, 10, 23)),
+        prettify: tsToDate
+    });}
 
 // create the map
 function createMap(lat,lon,zl){
