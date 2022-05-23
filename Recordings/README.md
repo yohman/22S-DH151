@@ -8,3 +8,4 @@ Check back here a day after class to find the latest zoom recordings.
 - [Week 4](https://ucla.zoom.us/rec/share/8Joq8hLGuw3NdTX3X-bHuw4KFnyus6rRYkLGGVGxjAG_PT8u5XrwDgsJsHYQNgaa.SypfRlvrTiqRPyUT)
 - [Week 5](https://ucla.zoom.us/rec/share/6oW9FFAqYQFf50ehgkvnaRCCXx7fsJxYbU1pezVnntToEm5tZFr3WXpMJF3PkxX5.0BUbOHoWkC-Mk-W0?startTime=1650922606000)
 - [Week 7](https://ucla.zoom.us/rec/share/KPD9rEq4QLxpTuE-oVAOl11UqpbEUjkNf4_PIJg63wtctbkgeqAQYlrH5dMgcaz1.GFiOhv8A7HSuOcAo?startTime=1652130579000)
+- [Week 8](https://ucla.zoom.us/rec/share/WLGa0yy0Drd3VK6m2R6g0RAj7g9rQKXTEgl5YeaAKAP7P-62CyEDX0nGLEGGwduU.gF94ODr2qbUaNue9?startTime=1652735904000)
