@@ -55,6 +55,6 @@ Your final project will be graded on the following rubric:
 4. **Interactive components**: Beyond the map, we have learned a variety of ways to enhance the user experience through interactive elements that provide additional data visualizations. Do the interactive components like charts, tables, buttons, sliders, etc, function in a way that illuminates additional narratives?
 5. **Originality**: How well have you grasped the course material? Have you created your own functions that work specifically for your project? Does the project have a unique identity beyond what was offered in the labs?
 6. **Usefulness**: Usefulness, thickness, design justice, social/technological determinism, equity, ethical considerations...
-
+7. **Your presentation**: Did you nail it? Did you convince your audience that this is a project worth investing in? Did it convey the research narrative arc that you have set about from the beginning?
 
 
