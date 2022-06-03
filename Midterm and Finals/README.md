@@ -57,4 +57,4 @@ Your final project will be graded on the following rubric:
 6. **Usefulness**: Usefulness, thickness, design justice, social/technological determinism, equity, ethical considerations...
 7. **Your presentation**: Did you nail it? Did you convince your audience that this is a project worth investing in? Did it convey the research narrative arc that you have set about from the beginning?
 
-
+Submit your final materials [here](https://github.com/yohman/22S-DH151/discussions/20)
